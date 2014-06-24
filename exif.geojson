@@ -126,6 +126,242 @@
           "image": {
             "Make": "Apple",
             "Model": "iPhone 5s",
+            "Orientation": 6,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "7.1.1",
+            "ModifyDate": "2014:06:20 14:22:59",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 204,
+            "GPSInfo": 1518
+          },
+          "thumbnail": {},
+          "exif": {
+            "ExposureTime": 0.005319148936170213,
+            "FNumber": 2.2,
+            "ExposureProgram": 2,
+            "ISO": 32,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              49
+            ],
+            "DateTimeOriginal": "2014:06:20 14:22:59",
+            "CreateDate": "2014:06:20 14:22:59",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 7.555714285714286,
+            "ApertureValue": 2.2750072066878064,
+            "BrightnessValue": 6.719692489651094,
+            "MeteringMode": 5,
+            "Flash": 24,
+            "FocalLength": 4.12,
+            "SubjectArea": [
+              1631,
+              1223,
+              1795,
+              1077
+            ],
+            "SubSecTimeOriginal": "224",
+            "SubSecTimeDigitized": "224",
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "SensingMethod": 2,
+            "SceneType": [
+              1
+            ],
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "FocalLengthIn35mmFormat": 30,
+            "SceneCaptureType": 0,
+            "LensInfo": [
+              4.12,
+              4.12,
+              2.2,
+              2.2
+            ],
+            "LensMake": "Apple",
+            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
+          },
+          "gps": {
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              51,
+              30,
+              11.81
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              0,
+              8,
+              30.93
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 7.66231884057971,
+            "GPSTimeStamp": [
+              13,
+              22,
+              58
+            ],
+            "GPSImgDirectionRef": "M",
+            "GPSImgDirection": 32.270334928229666,
+            "GPSDateStamp": "2014:06:20"
+          },
+          "interoperability": {}
+        },
+        "gpsTime": 1403270578000,
+        "gpsTimeStr": "Fri Jun 20 2014 06:22:58 GMT-0700 (PDT)",
+        "imgTime": 1403299379000,
+        "imgTimeStr": "Fri Jun 20 2014 14:22:59 GMT-0700 (PDT)",
+        "imgPath": "img/10.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.141925,
+          51.503280555555556,
+          7.66231884057971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "Make": "Apple",
+            "Model": "iPhone 5s",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "7.1.1",
+            "ModifyDate": "2014:06:18 12:02:05",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 204,
+            "GPSInfo": 1518
+          },
+          "thumbnail": {},
+          "exif": {
+            "ExposureTime": 0.0005120327700972862,
+            "FNumber": 2.2,
+            "ExposureProgram": 2,
+            "ISO": 40,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              49
+            ],
+            "DateTimeOriginal": "2014:06:18 12:02:05",
+            "CreateDate": "2014:06:18 12:02:05",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 10.931569343065693,
+            "ApertureValue": 2.2750072066878064,
+            "BrightnessValue": 10.056628056628057,
+            "MeteringMode": 5,
+            "Flash": 24,
+            "FocalLength": 4.12,
+            "SubjectArea": [
+              1631,
+              1223,
+              1795,
+              1077
+            ],
+            "SubSecTimeOriginal": "636",
+            "SubSecTimeDigitized": "636",
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "SensingMethod": 2,
+            "SceneType": [
+              1
+            ],
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "FocalLengthIn35mmFormat": 30,
+            "SceneCaptureType": 0,
+            "LensInfo": [
+              4.12,
+              4.12,
+              2.2,
+              2.2
+            ],
+            "LensMake": "Apple",
+            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
+          },
+          "gps": {
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              38,
+              2,
+              48.31
+            ],
+            "GPSLongitudeRef": "E",
+            "GPSLongitude": [
+              13,
+              7,
+              6.3
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 182.14406779661016,
+            "GPSTimeStamp": [
+              10,
+              2,
+              4
+            ],
+            "GPSImgDirectionRef": "M",
+            "GPSImgDirection": 142.7252396166134,
+            "GPSDateStamp": "2014:06:18"
+          },
+          "interoperability": {}
+        },
+        "gpsTime": 1403085724000,
+        "gpsTimeStr": "Wed Jun 18 2014 03:02:04 GMT-0700 (PDT)",
+        "imgTime": 1403118125000,
+        "imgTimeStr": "Wed Jun 18 2014 12:02:05 GMT-0700 (PDT)",
+        "imgPath": "img/11.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.118416666666667,
+          38.046752777777776,
+          182.14406779661016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "Make": "Apple",
+            "Model": "iPhone 5s",
             "Orientation": 1,
             "XResolution": 72,
             "YResolution": 72,
@@ -352,124 +588,6 @@
           13.099530555555557,
           37.97184444444444,
           267.71590909090907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "Make": "Apple",
-            "Model": "iPhone 5s",
-            "Orientation": 6,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "7.1.1",
-            "ModifyDate": "2014:06:20 14:22:59",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 204,
-            "GPSInfo": 1518
-          },
-          "thumbnail": {},
-          "exif": {
-            "ExposureTime": 0.005319148936170213,
-            "FNumber": 2.2,
-            "ExposureProgram": 2,
-            "ISO": 32,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              49
-            ],
-            "DateTimeOriginal": "2014:06:20 14:22:59",
-            "CreateDate": "2014:06:20 14:22:59",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 7.555714285714286,
-            "ApertureValue": 2.2750072066878064,
-            "BrightnessValue": 6.719692489651094,
-            "MeteringMode": 5,
-            "Flash": 24,
-            "FocalLength": 4.12,
-            "SubjectArea": [
-              1631,
-              1223,
-              1795,
-              1077
-            ],
-            "SubSecTimeOriginal": "224",
-            "SubSecTimeDigitized": "224",
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "SensingMethod": 2,
-            "SceneType": [
-              1
-            ],
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "FocalLengthIn35mmFormat": 30,
-            "SceneCaptureType": 0,
-            "LensInfo": [
-              4.12,
-              4.12,
-              2.2,
-              2.2
-            ],
-            "LensMake": "Apple",
-            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
-          },
-          "gps": {
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              51,
-              30,
-              11.81
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
-              0,
-              8,
-              30.93
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 7.66231884057971,
-            "GPSTimeStamp": [
-              13,
-              22,
-              58
-            ],
-            "GPSImgDirectionRef": "M",
-            "GPSImgDirection": 32.270334928229666,
-            "GPSDateStamp": "2014:06:20"
-          },
-          "interoperability": {}
-        },
-        "gpsTime": 1403270578000,
-        "gpsTimeStr": "Fri Jun 20 2014 06:22:58 GMT-0700 (PDT)",
-        "imgTime": 1403299379000,
-        "imgTimeStr": "Fri Jun 20 2014 14:22:59 GMT-0700 (PDT)",
-        "imgPath": "img/10.JPG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.141925,
-          51.503280555555556,
-          7.66231884057971
         ]
       }
     },
@@ -714,41 +832,41 @@
           "image": {
             "Make": "Apple",
             "Model": "iPhone 5s",
-            "Orientation": 1,
+            "Orientation": 6,
             "XResolution": 72,
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "7.1.1",
-            "ModifyDate": "2014:06:18 12:02:05",
+            "ModifyDate": "2014:06:17 20:26:21",
             "YCbCrPositioning": 1,
             "ExifOffset": 204,
-            "GPSInfo": 1518
+            "GPSInfo": 1530
           },
           "thumbnail": {},
           "exif": {
-            "ExposureTime": 0.0005120327700972862,
+            "ExposureTime": 0.03333333333333333,
             "FNumber": 2.2,
             "ExposureProgram": 2,
-            "ISO": 40,
+            "ISO": 80,
             "ExifVersion": [
               48,
               50,
               50,
               49
             ],
-            "DateTimeOriginal": "2014:06:18 12:02:05",
-            "CreateDate": "2014:06:18 12:02:05",
+            "DateTimeOriginal": "2014:06:17 20:26:21",
+            "CreateDate": "2014:06:17 20:26:21",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 10.931569343065693,
+            "ShutterSpeedValue": 4.90712145655681,
             "ApertureValue": 2.2750072066878064,
-            "BrightnessValue": 10.056628056628057,
+            "BrightnessValue": 3.1295793758480324,
             "MeteringMode": 5,
-            "Flash": 24,
+            "Flash": 0,
             "FocalLength": 4.12,
             "SubjectArea": [
               1631,
@@ -756,8 +874,8 @@
               1795,
               1077
             ],
-            "SubSecTimeOriginal": "636",
-            "SubSecTimeDigitized": "636",
+            "SubSecTimeOriginal": "838",
+            "SubSecTimeDigitized": "838",
             "FlashpixVersion": [
               48,
               49,
@@ -789,157 +907,39 @@
             "GPSLatitude": [
               38,
               2,
-              48.31
+              20.1
             ],
             "GPSLongitudeRef": "E",
             "GPSLongitude": [
               13,
-              7,
-              6.3
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 182.14406779661016,
-            "GPSTimeStamp": [
-              10,
-              2,
-              4
-            ],
-            "GPSImgDirectionRef": "M",
-            "GPSImgDirection": 142.7252396166134,
-            "GPSDateStamp": "2014:06:18"
-          },
-          "interoperability": {}
-        },
-        "gpsTime": 1403085724000,
-        "gpsTimeStr": "Wed Jun 18 2014 03:02:04 GMT-0700 (PDT)",
-        "imgTime": 1403118125000,
-        "imgTimeStr": "Wed Jun 18 2014 12:02:05 GMT-0700 (PDT)",
-        "imgPath": "img/11.JPG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.118416666666667,
-          38.046752777777776,
-          182.14406779661016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "Make": "Apple",
-            "Model": "iPhone 5s",
-            "Orientation": 1,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "7.1.1",
-            "ModifyDate": "2014:06:20 16:48:21",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 204,
-            "GPSInfo": 1530
-          },
-          "thumbnail": {},
-          "exif": {
-            "ExposureTime": 0.03333333333333333,
-            "FNumber": 2.2,
-            "ExposureProgram": 2,
-            "ISO": 160,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              49
-            ],
-            "DateTimeOriginal": "2014:06:20 16:48:21",
-            "CreateDate": "2014:06:20 16:48:21",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 4.90712145655681,
-            "ApertureValue": 2.2750072066878064,
-            "BrightnessValue": 2.2709923664122136,
-            "MeteringMode": 5,
-            "Flash": 0,
-            "FocalLength": 4.12,
-            "SubjectArea": [
-              1631,
-              1223,
-              1795,
-              1077
-            ],
-            "SubSecTimeOriginal": "238",
-            "SubSecTimeDigitized": "238",
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "SensingMethod": 2,
-            "SceneType": [
-              1
-            ],
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "FocalLengthIn35mmFormat": 30,
-            "SceneCaptureType": 0,
-            "LensInfo": [
-              4.12,
-              4.12,
-              2.2,
-              2.2
-            ],
-            "LensMake": "Apple",
-            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
-          },
-          "gps": {
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              51,
-              31,
-              8.47
-            ],
-            "GPSLongitudeRef": "W",
-            "GPSLongitude": [
               0,
-              7,
-              44.32
+              23.76
             ],
             "GPSAltitudeRef": 0,
-            "GPSAltitude": 27.600775193798448,
+            "GPSAltitude": 90.09454545454545,
             "GPSTimeStamp": [
-              15,
-              48,
-              19
+              18,
+              26,
+              21
             ],
             "GPSImgDirectionRef": "M",
-            "GPSImgDirection": 90.53558052434457,
-            "GPSDateStamp": "2014:06:20"
+            "GPSImgDirection": 186.31259259259258,
+            "GPSDateStamp": "2014:06:17"
           },
           "interoperability": {}
         },
-        "gpsTime": 1403279299000,
-        "gpsTimeStr": "Fri Jun 20 2014 08:48:19 GMT-0700 (PDT)",
-        "imgTime": 1403308101000,
-        "imgTimeStr": "Fri Jun 20 2014 16:48:21 GMT-0700 (PDT)",
-        "imgPath": "img/2.JPG"
+        "gpsTime": 1403029581000,
+        "gpsTimeStr": "Tue Jun 17 2014 11:26:21 GMT-0700 (PDT)",
+        "imgTime": 1403061981000,
+        "imgTimeStr": "Tue Jun 17 2014 20:26:21 GMT-0700 (PDT)",
+        "imgPath": "img/17.JPG"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.12897777777777777,
-          51.519019444444446,
-          27.600775193798448
+          13.0066,
+          38.038916666666665,
+          90.09454545454545
         ]
       }
     },
@@ -1058,124 +1058,6 @@
           12.834202777777778,
           37.588391666666666,
           40.72430668841762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "Make": "Apple",
-            "Model": "iPhone 5s",
-            "Orientation": 6,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "7.1.1",
-            "ModifyDate": "2014:06:17 20:26:21",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 204,
-            "GPSInfo": 1530
-          },
-          "thumbnail": {},
-          "exif": {
-            "ExposureTime": 0.03333333333333333,
-            "FNumber": 2.2,
-            "ExposureProgram": 2,
-            "ISO": 80,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              49
-            ],
-            "DateTimeOriginal": "2014:06:17 20:26:21",
-            "CreateDate": "2014:06:17 20:26:21",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 4.90712145655681,
-            "ApertureValue": 2.2750072066878064,
-            "BrightnessValue": 3.1295793758480324,
-            "MeteringMode": 5,
-            "Flash": 0,
-            "FocalLength": 4.12,
-            "SubjectArea": [
-              1631,
-              1223,
-              1795,
-              1077
-            ],
-            "SubSecTimeOriginal": "838",
-            "SubSecTimeDigitized": "838",
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "SensingMethod": 2,
-            "SceneType": [
-              1
-            ],
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "FocalLengthIn35mmFormat": 30,
-            "SceneCaptureType": 0,
-            "LensInfo": [
-              4.12,
-              4.12,
-              2.2,
-              2.2
-            ],
-            "LensMake": "Apple",
-            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
-          },
-          "gps": {
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              38,
-              2,
-              20.1
-            ],
-            "GPSLongitudeRef": "E",
-            "GPSLongitude": [
-              13,
-              0,
-              23.76
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 90.09454545454545,
-            "GPSTimeStamp": [
-              18,
-              26,
-              21
-            ],
-            "GPSImgDirectionRef": "M",
-            "GPSImgDirection": 186.31259259259258,
-            "GPSDateStamp": "2014:06:17"
-          },
-          "interoperability": {}
-        },
-        "gpsTime": 1403029581000,
-        "gpsTimeStr": "Tue Jun 17 2014 11:26:21 GMT-0700 (PDT)",
-        "imgTime": 1403061981000,
-        "imgTimeStr": "Tue Jun 17 2014 20:26:21 GMT-0700 (PDT)",
-        "imgPath": "img/17.JPG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0066,
-          38.038916666666665,
-          90.09454545454545
         ]
       }
     },
@@ -1545,7 +1427,7 @@
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "7.1.1",
-            "ModifyDate": "2014:06:16 14:44:06",
+            "ModifyDate": "2014:06:20 16:48:21",
             "YCbCrPositioning": 1,
             "ExifOffset": 204,
             "GPSInfo": 1530
@@ -1562,8 +1444,8 @@
               50,
               49
             ],
-            "DateTimeOriginal": "2014:06:16 14:44:06",
-            "CreateDate": "2014:06:16 14:44:06",
+            "DateTimeOriginal": "2014:06:20 16:48:21",
+            "CreateDate": "2014:06:20 16:48:21",
             "ComponentsConfiguration": [
               1,
               2,
@@ -1572,7 +1454,7 @@
             ],
             "ShutterSpeedValue": 4.90712145655681,
             "ApertureValue": 2.2750072066878064,
-            "BrightnessValue": 1.7310819262038775,
+            "BrightnessValue": 2.2709923664122136,
             "MeteringMode": 5,
             "Flash": 0,
             "FocalLength": 4.12,
@@ -1582,8 +1464,8 @@
               1795,
               1077
             ],
-            "SubSecTimeOriginal": "890",
-            "SubSecTimeDigitized": "890",
+            "SubSecTimeOriginal": "238",
+            "SubSecTimeDigitized": "238",
             "FlashpixVersion": [
               48,
               49,
@@ -1613,39 +1495,41 @@
           "gps": {
             "GPSLatitudeRef": "N",
             "GPSLatitude": [
-              38,
-              2,
-              15.09
+              51,
+              31,
+              8.47
             ],
-            "GPSLongitudeRef": "E",
+            "GPSLongitudeRef": "W",
             "GPSLongitude": [
-              12,
-              35,
-              24.74
+              0,
+              7,
+              44.32
             ],
             "GPSAltitudeRef": 0,
-            "GPSAltitude": 764.1946308724832,
+            "GPSAltitude": 27.600775193798448,
             "GPSTimeStamp": [
-              12,
-              44,
-              0
+              15,
+              48,
+              19
             ],
-            "GPSDateStamp": "2014:06:16"
+            "GPSImgDirectionRef": "M",
+            "GPSImgDirection": 90.53558052434457,
+            "GPSDateStamp": "2014:06:20"
           },
           "interoperability": {}
         },
-        "gpsTime": 1402922640000,
-        "gpsTimeStr": "Mon Jun 16 2014 05:44:00 GMT-0700 (PDT)",
-        "imgTime": 1402955046000,
-        "imgTimeStr": "Mon Jun 16 2014 14:44:06 GMT-0700 (PDT)",
-        "imgPath": "img/22.JPG"
+        "gpsTime": 1403279299000,
+        "gpsTimeStr": "Fri Jun 20 2014 08:48:19 GMT-0700 (PDT)",
+        "imgTime": 1403308101000,
+        "imgTimeStr": "Fri Jun 20 2014 16:48:21 GMT-0700 (PDT)",
+        "imgPath": "img/2.JPG"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.590205555555556,
-          38.037524999999995,
-          764.1946308724832
+          -0.12897777777777777,
+          51.519019444444446,
+          27.600775193798448
         ]
       }
     },
@@ -1764,6 +1648,122 @@
           12.589797222222224,
           38.035469444444445,
           755.4880952380952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "Make": "Apple",
+            "Model": "iPhone 5s",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "7.1.1",
+            "ModifyDate": "2014:06:16 14:44:06",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 204,
+            "GPSInfo": 1530
+          },
+          "thumbnail": {},
+          "exif": {
+            "ExposureTime": 0.03333333333333333,
+            "FNumber": 2.2,
+            "ExposureProgram": 2,
+            "ISO": 160,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              49
+            ],
+            "DateTimeOriginal": "2014:06:16 14:44:06",
+            "CreateDate": "2014:06:16 14:44:06",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 4.90712145655681,
+            "ApertureValue": 2.2750072066878064,
+            "BrightnessValue": 1.7310819262038775,
+            "MeteringMode": 5,
+            "Flash": 0,
+            "FocalLength": 4.12,
+            "SubjectArea": [
+              1631,
+              1223,
+              1795,
+              1077
+            ],
+            "SubSecTimeOriginal": "890",
+            "SubSecTimeDigitized": "890",
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "SensingMethod": 2,
+            "SceneType": [
+              1
+            ],
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "FocalLengthIn35mmFormat": 30,
+            "SceneCaptureType": 0,
+            "LensInfo": [
+              4.12,
+              4.12,
+              2.2,
+              2.2
+            ],
+            "LensMake": "Apple",
+            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
+          },
+          "gps": {
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              38,
+              2,
+              15.09
+            ],
+            "GPSLongitudeRef": "E",
+            "GPSLongitude": [
+              12,
+              35,
+              24.74
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 764.1946308724832,
+            "GPSTimeStamp": [
+              12,
+              44,
+              0
+            ],
+            "GPSDateStamp": "2014:06:16"
+          },
+          "interoperability": {}
+        },
+        "gpsTime": 1402922640000,
+        "gpsTimeStr": "Mon Jun 16 2014 05:44:00 GMT-0700 (PDT)",
+        "imgTime": 1402955046000,
+        "imgTimeStr": "Mon Jun 16 2014 14:44:06 GMT-0700 (PDT)",
+        "imgPath": "img/22.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.590205555555556,
+          38.037524999999995,
+          764.1946308724832
         ]
       }
     },
@@ -2008,124 +2008,6 @@
           "image": {
             "Make": "Apple",
             "Model": "iPhone 5s",
-            "Orientation": 6,
-            "XResolution": 72,
-            "YResolution": 72,
-            "ResolutionUnit": 2,
-            "Software": "7.1.1",
-            "ModifyDate": "2014:06:15 13:18:46",
-            "YCbCrPositioning": 1,
-            "ExifOffset": 204,
-            "GPSInfo": 1518
-          },
-          "thumbnail": {},
-          "exif": {
-            "ExposureTime": 0.008333333333333333,
-            "FNumber": 2.2,
-            "ExposureProgram": 2,
-            "ISO": 50,
-            "ExifVersion": [
-              48,
-              50,
-              50,
-              49
-            ],
-            "DateTimeOriginal": "2014:06:15 13:18:46",
-            "CreateDate": "2014:06:15 13:18:46",
-            "ComponentsConfiguration": [
-              1,
-              2,
-              3,
-              0
-            ],
-            "ShutterSpeedValue": 6.9104151493080845,
-            "ApertureValue": 2.2750072066878064,
-            "BrightnessValue": 5.087206266318538,
-            "MeteringMode": 5,
-            "Flash": 24,
-            "FocalLength": 4.12,
-            "SubjectArea": [
-              1631,
-              1223,
-              1795,
-              1077
-            ],
-            "SubSecTimeOriginal": "643",
-            "SubSecTimeDigitized": "643",
-            "FlashpixVersion": [
-              48,
-              49,
-              48,
-              48
-            ],
-            "ColorSpace": 1,
-            "ExifImageWidth": 3264,
-            "ExifImageHeight": 2448,
-            "SensingMethod": 2,
-            "SceneType": [
-              1
-            ],
-            "ExposureMode": 0,
-            "WhiteBalance": 0,
-            "FocalLengthIn35mmFormat": 30,
-            "SceneCaptureType": 0,
-            "LensInfo": [
-              4.12,
-              4.12,
-              2.2,
-              2.2
-            ],
-            "LensMake": "Apple",
-            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
-          },
-          "gps": {
-            "GPSLatitudeRef": "N",
-            "GPSLatitude": [
-              37,
-              23,
-              41.05
-            ],
-            "GPSLongitudeRef": "E",
-            "GPSLongitude": [
-              13,
-              20,
-              38.85
-            ],
-            "GPSAltitudeRef": 0,
-            "GPSAltitude": 95.1211498973306,
-            "GPSTimeStamp": [
-              11,
-              18,
-              28
-            ],
-            "GPSImgDirectionRef": "M",
-            "GPSImgDirection": 257.8241758241758,
-            "GPSDateStamp": "2014:06:15"
-          },
-          "interoperability": {}
-        },
-        "gpsTime": 1402831108000,
-        "gpsTimeStr": "Sun Jun 15 2014 04:18:28 GMT-0700 (PDT)",
-        "imgTime": 1402863526000,
-        "imgTimeStr": "Sun Jun 15 2014 13:18:46 GMT-0700 (PDT)",
-        "imgPath": "img/25.JPG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.344125,
-          37.39473611111111,
-          95.1211498973306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "exif": {
-          "image": {
-            "Make": "Apple",
-            "Model": "iPhone 5s",
             "Orientation": 1,
             "XResolution": 72,
             "YResolution": 72,
@@ -2245,39 +2127,39 @@
           "image": {
             "Make": "Apple",
             "Model": "iPhone 5s",
-            "Orientation": 1,
+            "Orientation": 6,
             "XResolution": 72,
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "7.1.1",
-            "ModifyDate": "2014:06:15 18:32:00",
+            "ModifyDate": "2014:06:15 13:18:46",
             "YCbCrPositioning": 1,
             "ExifOffset": 204,
             "GPSInfo": 1518
           },
           "thumbnail": {},
           "exif": {
-            "ExposureTime": 0.000949667616334283,
+            "ExposureTime": 0.008333333333333333,
             "FNumber": 2.2,
             "ExposureProgram": 2,
-            "ISO": 32,
+            "ISO": 50,
             "ExifVersion": [
               48,
               50,
               50,
               49
             ],
-            "DateTimeOriginal": "2014:06:15 18:32:00",
-            "CreateDate": "2014:06:15 18:32:00",
+            "DateTimeOriginal": "2014:06:15 13:18:46",
+            "CreateDate": "2014:06:15 13:18:46",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 10.039784946236558,
+            "ShutterSpeedValue": 6.9104151493080845,
             "ApertureValue": 2.2750072066878064,
-            "BrightnessValue": 9.071822117276662,
+            "BrightnessValue": 5.087206266318538,
             "MeteringMode": 5,
             "Flash": 24,
             "FocalLength": 4.12,
@@ -2287,8 +2169,8 @@
               1795,
               1077
             ],
-            "SubSecTimeOriginal": "858",
-            "SubSecTimeDigitized": "858",
+            "SubSecTimeOriginal": "643",
+            "SubSecTimeDigitized": "643",
             "FlashpixVersion": [
               48,
               49,
@@ -2319,40 +2201,40 @@
             "GPSLatitudeRef": "N",
             "GPSLatitude": [
               37,
-              21,
-              47.85
+              23,
+              41.05
             ],
             "GPSLongitudeRef": "E",
             "GPSLongitude": [
               13,
-              19,
-              33.73
+              20,
+              38.85
             ],
             "GPSAltitudeRef": 0,
-            "GPSAltitude": 12.191528545119706,
+            "GPSAltitude": 95.1211498973306,
             "GPSTimeStamp": [
-              16,
-              32,
-              0
+              11,
+              18,
+              28
             ],
             "GPSImgDirectionRef": "M",
-            "GPSImgDirection": 27.78076062639821,
+            "GPSImgDirection": 257.8241758241758,
             "GPSDateStamp": "2014:06:15"
           },
           "interoperability": {}
         },
-        "gpsTime": 1402849920000,
-        "gpsTimeStr": "Sun Jun 15 2014 09:32:00 GMT-0700 (PDT)",
-        "imgTime": 1402882320000,
-        "imgTimeStr": "Sun Jun 15 2014 18:32:00 GMT-0700 (PDT)",
-        "imgPath": "img/29.JPG"
+        "gpsTime": 1402831108000,
+        "gpsTimeStr": "Sun Jun 15 2014 04:18:28 GMT-0700 (PDT)",
+        "imgTime": 1402863526000,
+        "imgTimeStr": "Sun Jun 15 2014 13:18:46 GMT-0700 (PDT)",
+        "imgPath": "img/25.JPG"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.326036111111112,
-          37.36329166666667,
-          12.191528545119706
+          13.344125,
+          37.39473611111111,
+          95.1211498973306
         ]
       }
     },
@@ -2600,6 +2482,708 @@
           "image": {
             "Make": "Apple",
             "Model": "iPhone 5s",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "7.1.1",
+            "ModifyDate": "2014:06:15 18:32:00",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 204,
+            "GPSInfo": 1518
+          },
+          "thumbnail": {},
+          "exif": {
+            "ExposureTime": 0.000949667616334283,
+            "FNumber": 2.2,
+            "ExposureProgram": 2,
+            "ISO": 32,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              49
+            ],
+            "DateTimeOriginal": "2014:06:15 18:32:00",
+            "CreateDate": "2014:06:15 18:32:00",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 10.039784946236558,
+            "ApertureValue": 2.2750072066878064,
+            "BrightnessValue": 9.071822117276662,
+            "MeteringMode": 5,
+            "Flash": 24,
+            "FocalLength": 4.12,
+            "SubjectArea": [
+              1631,
+              1223,
+              1795,
+              1077
+            ],
+            "SubSecTimeOriginal": "858",
+            "SubSecTimeDigitized": "858",
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "SensingMethod": 2,
+            "SceneType": [
+              1
+            ],
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "FocalLengthIn35mmFormat": 30,
+            "SceneCaptureType": 0,
+            "LensInfo": [
+              4.12,
+              4.12,
+              2.2,
+              2.2
+            ],
+            "LensMake": "Apple",
+            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
+          },
+          "gps": {
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              37,
+              21,
+              47.85
+            ],
+            "GPSLongitudeRef": "E",
+            "GPSLongitude": [
+              13,
+              19,
+              33.73
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 12.191528545119706,
+            "GPSTimeStamp": [
+              16,
+              32,
+              0
+            ],
+            "GPSImgDirectionRef": "M",
+            "GPSImgDirection": 27.78076062639821,
+            "GPSDateStamp": "2014:06:15"
+          },
+          "interoperability": {}
+        },
+        "gpsTime": 1402849920000,
+        "gpsTimeStr": "Sun Jun 15 2014 09:32:00 GMT-0700 (PDT)",
+        "imgTime": 1402882320000,
+        "imgTimeStr": "Sun Jun 15 2014 18:32:00 GMT-0700 (PDT)",
+        "imgPath": "img/29.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.326036111111112,
+          37.36329166666667,
+          12.191528545119706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "Make": "Apple",
+            "Model": "iPhone 5s",
+            "Orientation": 6,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "7.1.1",
+            "ModifyDate": "2014:06:13 16:59:51",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 204,
+            "GPSInfo": 1530
+          },
+          "thumbnail": {},
+          "exif": {
+            "ExposureTime": 0.06666666666666667,
+            "FNumber": 2.2,
+            "ExposureProgram": 2,
+            "ISO": 400,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              49
+            ],
+            "DateTimeOriginal": "2014:06:13 16:59:51",
+            "CreateDate": "2014:06:13 16:59:51",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 3.9070996978851964,
+            "ApertureValue": 2.2750072066878064,
+            "BrightnessValue": 0.11027956989247312,
+            "MeteringMode": 3,
+            "Flash": 0,
+            "FocalLength": 4.12,
+            "SubjectArea": [
+              2028,
+              1035,
+              610,
+              612
+            ],
+            "SubSecTimeOriginal": "732",
+            "SubSecTimeDigitized": "732",
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "SensingMethod": 2,
+            "SceneType": [
+              1
+            ],
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "FocalLengthIn35mmFormat": 30,
+            "SceneCaptureType": 0,
+            "LensInfo": [
+              4.12,
+              4.12,
+              2.2,
+              2.2
+            ],
+            "LensMake": "Apple",
+            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
+          },
+          "gps": {
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              51,
+              33,
+              15.25
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              0,
+              9,
+              56.06
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 81,
+            "GPSTimeStamp": [
+              15,
+              59,
+              47
+            ],
+            "GPSImgDirectionRef": "M",
+            "GPSImgDirection": 229.38194444444446,
+            "GPSDateStamp": "2014:06:13"
+          },
+          "interoperability": {}
+        },
+        "gpsTime": 1402675187000,
+        "gpsTimeStr": "Fri Jun 13 2014 08:59:47 GMT-0700 (PDT)",
+        "imgTime": 1402703991000,
+        "imgTimeStr": "Fri Jun 13 2014 16:59:51 GMT-0700 (PDT)",
+        "imgPath": "img/31.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16557222222222223,
+          51.55423611111111,
+          81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "Make": "Apple",
+            "Model": "iPhone 5s",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "7.1.1",
+            "ModifyDate": "2014:06:13 18:44:13",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 204,
+            "GPSInfo": 1518
+          },
+          "thumbnail": {},
+          "exif": {
+            "ExposureTime": 0.00078003120124805,
+            "FNumber": 2.2,
+            "ExposureProgram": 2,
+            "ISO": 40,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              49
+            ],
+            "DateTimeOriginal": "2014:06:13 18:44:13",
+            "CreateDate": "2014:06:13 18:44:13",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 10.324237560192616,
+            "ApertureValue": 2.2750072066878064,
+            "BrightnessValue": 9.617983963344788,
+            "MeteringMode": 5,
+            "Flash": 24,
+            "FocalLength": 4.12,
+            "SubjectArea": [
+              1631,
+              1223,
+              1795,
+              1077
+            ],
+            "SubSecTimeOriginal": "671",
+            "SubSecTimeDigitized": "671",
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "SensingMethod": 2,
+            "SceneType": [
+              1
+            ],
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "FocalLengthIn35mmFormat": 30,
+            "SceneCaptureType": 0,
+            "LensInfo": [
+              4.12,
+              4.12,
+              2.2,
+              2.2
+            ],
+            "LensMake": "Apple",
+            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
+          },
+          "gps": {
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              51,
+              33,
+              27.24
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              0,
+              10,
+              14.51
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 85.9014598540146,
+            "GPSTimeStamp": [
+              17,
+              44,
+              13
+            ],
+            "GPSImgDirectionRef": "M",
+            "GPSImgDirection": 139.4358552631579,
+            "GPSDateStamp": "2014:06:13"
+          },
+          "interoperability": {}
+        },
+        "gpsTime": 1402681453000,
+        "gpsTimeStr": "Fri Jun 13 2014 10:44:13 GMT-0700 (PDT)",
+        "imgTime": 1402710253000,
+        "imgTimeStr": "Fri Jun 13 2014 18:44:13 GMT-0700 (PDT)",
+        "imgPath": "img/32.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17069722222222222,
+          51.557566666666666,
+          85.9014598540146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "Make": "Apple",
+            "Model": "iPhone 5s",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "7.1.1",
+            "ModifyDate": "2014:06:13 18:08:22",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 204,
+            "GPSInfo": 1518
+          },
+          "thumbnail": {},
+          "exif": {
+            "ExposureTime": 0.001145475372279496,
+            "FNumber": 2.2,
+            "ExposureProgram": 2,
+            "ISO": 32,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              49
+            ],
+            "DateTimeOriginal": "2014:06:13 18:08:22",
+            "CreateDate": "2014:06:13 18:08:22",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 9.77043673012318,
+            "ApertureValue": 2.2750072066878064,
+            "BrightnessValue": 8.493224932249323,
+            "MeteringMode": 5,
+            "Flash": 24,
+            "FocalLength": 4.12,
+            "SubjectArea": [
+              1222,
+              1223,
+              1794,
+              1077
+            ],
+            "SubSecTimeOriginal": "507",
+            "SubSecTimeDigitized": "507",
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 2448,
+            "ExifImageHeight": 2448,
+            "SensingMethod": 2,
+            "SceneType": [
+              1
+            ],
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "FocalLengthIn35mmFormat": 40,
+            "SceneCaptureType": 0,
+            "LensInfo": [
+              4.12,
+              4.12,
+              2.2,
+              2.2
+            ],
+            "LensMake": "Apple",
+            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
+          },
+          "gps": {
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              51,
+              33,
+              38.55
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              0,
+              9,
+              58.42
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 76.88216560509554,
+            "GPSTimeStamp": [
+              17,
+              8,
+              22
+            ],
+            "GPSImgDirectionRef": "M",
+            "GPSImgDirection": 14.488524590163934,
+            "GPSDateStamp": "2014:06:13"
+          },
+          "interoperability": {}
+        },
+        "gpsTime": 1402679302000,
+        "gpsTimeStr": "Fri Jun 13 2014 10:08:22 GMT-0700 (PDT)",
+        "imgTime": 1402708102000,
+        "imgTimeStr": "Fri Jun 13 2014 18:08:22 GMT-0700 (PDT)",
+        "imgPath": "img/30.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16622777777777778,
+          51.56070833333333,
+          76.88216560509554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "Make": "Apple",
+            "Model": "iPhone 5s",
+            "Orientation": 1,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "7.1.1",
+            "ModifyDate": "2014:06:13 18:30:51",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 204,
+            "GPSInfo": 948
+          },
+          "thumbnail": {},
+          "exif": {
+            "ExposureTime": 0.0005359056806002144,
+            "FNumber": 2.2,
+            "ExposureProgram": 2,
+            "ISO": 40,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              49
+            ],
+            "DateTimeOriginal": "2014:06:13 18:30:51",
+            "CreateDate": "2014:06:13 18:30:51",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 10.865479723046489,
+            "ApertureValue": 2.2750072066878064,
+            "BrightnessValue": 10.219827586206897,
+            "MeteringMode": 5,
+            "Flash": 24,
+            "FocalLength": 4.12,
+            "SubjectArea": [
+              1630,
+              1221,
+              930,
+              558
+            ],
+            "SubSecTimeOriginal": "653",
+            "SubSecTimeDigitized": "653",
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 3264,
+            "ExifImageHeight": 2448,
+            "SensingMethod": 2,
+            "SceneType": [
+              1
+            ],
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "FocalLengthIn35mmFormat": 30,
+            "SceneCaptureType": 0,
+            "LensInfo": [
+              4.12,
+              4.12,
+              2.2,
+              2.2
+            ],
+            "LensMake": "Apple",
+            "LensModel": "iPhone 5s back camera 4.12mm f/2.2"
+          },
+          "gps": {
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              51,
+              33,
+              34.52
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              0,
+              10,
+              9.32
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 91.24789915966386,
+            "GPSTimeStamp": [
+              17,
+              30,
+              51
+            ],
+            "GPSImgDirectionRef": "M",
+            "GPSImgDirection": 62.5682382133995,
+            "GPSDateStamp": "2014:06:13"
+          },
+          "interoperability": {}
+        },
+        "gpsTime": 1402680651000,
+        "gpsTimeStr": "Fri Jun 13 2014 10:30:51 GMT-0700 (PDT)",
+        "imgTime": 1402709451000,
+        "imgTimeStr": "Fri Jun 13 2014 18:30:51 GMT-0700 (PDT)",
+        "imgPath": "img/33.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16925555555555555,
+          51.55958888888889,
+          91.24789915966386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "Make": "Apple",
+            "Model": "iPhone 5s",
+            "Orientation": 6,
+            "XResolution": 72,
+            "YResolution": 72,
+            "ResolutionUnit": 2,
+            "Software": "7.1.1",
+            "ModifyDate": "2014:06:12 12:37:09",
+            "YCbCrPositioning": 1,
+            "ExifOffset": 204,
+            "GPSInfo": 928
+          },
+          "thumbnail": {},
+          "exif": {
+            "ExposureTime": 0.03333333333333333,
+            "FNumber": 2.4,
+            "ExposureProgram": 2,
+            "ISO": 100,
+            "ExifVersion": [
+              48,
+              50,
+              50,
+              49
+            ],
+            "DateTimeOriginal": "2014:06:12 12:37:09",
+            "CreateDate": "2014:06:12 12:37:09",
+            "ComponentsConfiguration": [
+              1,
+              2,
+              3,
+              0
+            ],
+            "ShutterSpeedValue": 4.9069045771916215,
+            "ApertureValue": 2.5260688216892597,
+            "BrightnessValue": 3.252808988764045,
+            "MeteringMode": 5,
+            "Flash": 32,
+            "FocalLength": 2.15,
+            "SubSecTimeOriginal": "856",
+            "SubSecTimeDigitized": "856",
+            "FlashpixVersion": [
+              48,
+              49,
+              48,
+              48
+            ],
+            "ColorSpace": 1,
+            "ExifImageWidth": 1280,
+            "ExifImageHeight": 960,
+            "SensingMethod": 2,
+            "SceneType": [
+              1
+            ],
+            "ExposureMode": 0,
+            "WhiteBalance": 0,
+            "FocalLengthIn35mmFormat": 33,
+            "SceneCaptureType": 0,
+            "LensInfo": [
+              2.15,
+              2.15,
+              2.4,
+              2.4
+            ],
+            "LensMake": "Apple",
+            "LensModel": "iPhone 5s front camera 2.15mm f/2.4"
+          },
+          "gps": {
+            "GPSLatitudeRef": "N",
+            "GPSLatitude": [
+              45,
+              35,
+              12.82
+            ],
+            "GPSLongitudeRef": "W",
+            "GPSLongitude": [
+              122,
+              35,
+              34.78
+            ],
+            "GPSAltitudeRef": 0,
+            "GPSAltitude": 27.73556797020484,
+            "GPSTimeStamp": [
+              19,
+              37,
+              4
+            ],
+            "GPSImgDirectionRef": "M",
+            "GPSImgDirection": 199.0717299578059,
+            "GPSDateStamp": "2014:06:12"
+          },
+          "interoperability": {}
+        },
+        "gpsTime": 1402601824000,
+        "gpsTimeStr": "Thu Jun 12 2014 12:37:04 GMT-0700 (PDT)",
+        "imgTime": 1402601829000,
+        "imgTimeStr": "Thu Jun 12 2014 12:37:09 GMT-0700 (PDT)",
+        "imgPath": "img/34.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59299444444444,
+          45.58689444444445,
+          27.73556797020484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "exif": {
+          "image": {
+            "Make": "Apple",
+            "Model": "iPhone 5s",
             "Orientation": 3,
             "XResolution": 72,
             "YResolution": 72,
@@ -2831,50 +3415,49 @@
           "image": {
             "Make": "Apple",
             "Model": "iPhone 5s",
-            "Orientation": 1,
             "XResolution": 72,
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "7.1.1",
-            "ModifyDate": "2014:06:20 14:51:17",
+            "ModifyDate": "2014:06:20 13:10:12",
             "YCbCrPositioning": 1,
-            "ExifOffset": 204,
-            "GPSInfo": 1518
+            "ExifOffset": 192,
+            "GPSInfo": 1506
           },
           "thumbnail": {},
           "exif": {
-            "ExposureTime": 0.003952569169960474,
+            "ExposureTime": 0.000462962962962963,
             "FNumber": 2.2,
             "ExposureProgram": 2,
-            "ISO": 32,
+            "ISO": 40,
             "ExifVersion": [
               48,
               50,
               50,
               49
             ],
-            "DateTimeOriginal": "2014:06:20 14:51:17",
-            "CreateDate": "2014:06:20 14:51:17",
+            "DateTimeOriginal": "2014:06:20 13:10:12",
+            "CreateDate": "2014:06:20 13:10:12",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 7.984297520661157,
-            "ApertureValue": 2.2750072066878064,
-            "BrightnessValue": 7.7532561505065125,
+            "ShutterSpeedValue": 11.0767004341534,
+            "ApertureValue": 2.275007290755322,
+            "BrightnessValue": 10.311977715877438,
             "MeteringMode": 5,
             "Flash": 24,
             "FocalLength": 4.12,
             "SubjectArea": [
-              1631,
-              1223,
-              1795,
-              1077
+              2544,
+              1599,
+              221,
+              222
             ],
-            "SubSecTimeOriginal": "329",
-            "SubSecTimeDigitized": "329",
+            "SubSecTimeOriginal": "064",
+            "SubSecTimeDigitized": "064",
             "FlashpixVersion": [
               48,
               49,
@@ -2905,40 +3488,40 @@
             "GPSLatitudeRef": "N",
             "GPSLatitude": [
               51,
-              31,
-              6.85
+              30,
+              3.36
             ],
             "GPSLongitudeRef": "W",
             "GPSLongitude": [
               0,
               7,
-              15.14
+              19.93
             ],
             "GPSAltitudeRef": 0,
-            "GPSAltitude": 27.75873015873016,
+            "GPSAltitude": 5.07278020378457,
             "GPSTimeStamp": [
-              13,
-              51,
-              15
+              12,
+              10,
+              11
             ],
             "GPSImgDirectionRef": "M",
-            "GPSImgDirection": 127.99848484848485,
+            "GPSImgDirection": 283.3195266272189,
             "GPSDateStamp": "2014:06:20"
           },
           "interoperability": {}
         },
-        "gpsTime": 1403272275000,
-        "gpsTimeStr": "Fri Jun 20 2014 06:51:15 GMT-0700 (PDT)",
-        "imgTime": 1403301077000,
-        "imgTimeStr": "Fri Jun 20 2014 14:51:17 GMT-0700 (PDT)",
-        "imgPath": "img/9.JPG"
+        "gpsTime": 1403266211000,
+        "gpsTimeStr": "Fri Jun 20 2014 05:10:11 GMT-0700 (PDT)",
+        "imgTime": 1403295012000,
+        "imgTimeStr": "Fri Jun 20 2014 13:10:12 GMT-0700 (PDT)",
+        "imgPath": "img/6.JPG"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.12087222222222223,
-          51.518569444444445,
-          27.75873015873016
+          -0.12220277777777779,
+          51.500933333333336,
+          5.07278020378457
         ]
       }
     },
@@ -3067,49 +3650,50 @@
           "image": {
             "Make": "Apple",
             "Model": "iPhone 5s",
+            "Orientation": 1,
             "XResolution": 72,
             "YResolution": 72,
             "ResolutionUnit": 2,
             "Software": "7.1.1",
-            "ModifyDate": "2014:06:20 13:10:12",
+            "ModifyDate": "2014:06:20 14:51:17",
             "YCbCrPositioning": 1,
-            "ExifOffset": 192,
-            "GPSInfo": 1506
+            "ExifOffset": 204,
+            "GPSInfo": 1518
           },
           "thumbnail": {},
           "exif": {
-            "ExposureTime": 0.000462962962962963,
+            "ExposureTime": 0.003952569169960474,
             "FNumber": 2.2,
             "ExposureProgram": 2,
-            "ISO": 40,
+            "ISO": 32,
             "ExifVersion": [
               48,
               50,
               50,
               49
             ],
-            "DateTimeOriginal": "2014:06:20 13:10:12",
-            "CreateDate": "2014:06:20 13:10:12",
+            "DateTimeOriginal": "2014:06:20 14:51:17",
+            "CreateDate": "2014:06:20 14:51:17",
             "ComponentsConfiguration": [
               1,
               2,
               3,
               0
             ],
-            "ShutterSpeedValue": 11.0767004341534,
-            "ApertureValue": 2.275007290755322,
-            "BrightnessValue": 10.311977715877438,
+            "ShutterSpeedValue": 7.984297520661157,
+            "ApertureValue": 2.2750072066878064,
+            "BrightnessValue": 7.7532561505065125,
             "MeteringMode": 5,
             "Flash": 24,
             "FocalLength": 4.12,
             "SubjectArea": [
-              2544,
-              1599,
-              221,
-              222
+              1631,
+              1223,
+              1795,
+              1077
             ],
-            "SubSecTimeOriginal": "064",
-            "SubSecTimeDigitized": "064",
+            "SubSecTimeOriginal": "329",
+            "SubSecTimeDigitized": "329",
             "FlashpixVersion": [
               48,
               49,
@@ -3140,40 +3724,40 @@
             "GPSLatitudeRef": "N",
             "GPSLatitude": [
               51,
-              30,
-              3.36
+              31,
+              6.85
             ],
             "GPSLongitudeRef": "W",
             "GPSLongitude": [
               0,
               7,
-              19.93
+              15.14
             ],
             "GPSAltitudeRef": 0,
-            "GPSAltitude": 5.07278020378457,
+            "GPSAltitude": 27.75873015873016,
             "GPSTimeStamp": [
-              12,
-              10,
-              11
+              13,
+              51,
+              15
             ],
             "GPSImgDirectionRef": "M",
-            "GPSImgDirection": 283.3195266272189,
+            "GPSImgDirection": 127.99848484848485,
             "GPSDateStamp": "2014:06:20"
           },
           "interoperability": {}
         },
-        "gpsTime": 1403266211000,
-        "gpsTimeStr": "Fri Jun 20 2014 05:10:11 GMT-0700 (PDT)",
-        "imgTime": 1403295012000,
-        "imgTimeStr": "Fri Jun 20 2014 13:10:12 GMT-0700 (PDT)",
-        "imgPath": "img/6.JPG"
+        "gpsTime": 1403272275000,
+        "gpsTimeStr": "Fri Jun 20 2014 06:51:15 GMT-0700 (PDT)",
+        "imgTime": 1403301077000,
+        "imgTimeStr": "Fri Jun 20 2014 14:51:17 GMT-0700 (PDT)",
+        "imgPath": "img/9.JPG"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.12220277777777779,
-          51.500933333333336,
-          5.07278020378457
+          -0.12087222222222223,
+          51.518569444444445,
+          27.75873015873016
         ]
       }
     },
